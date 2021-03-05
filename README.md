@@ -13,7 +13,7 @@ If the user selects 'investment', they are prompted to provide the initial depos
 
 If the user selects 'bond' to calculate a home loan repayment, they are prompted to provide the value of the house, the interest rate and the number of months over which they would likely be paying back this loan.
 
-###Usefulness:
-This Python project is useful because it will enable financial professionals to make difficult calculations quickly and accurately. It could also be added to the website of a financial planning business, for example, where it could be used as a free resource which would drive more traffic to that businesses website and also add to their credibility.
+### Usefulness:
+This Python project is useful because it will enable financial professionals to make difficult calculations quickly and accurately. It could also be added to the website of a financial planning business, for example, where it could be used as a free resource which would drive more traffic to that website and also add to their credibility.
 
 
